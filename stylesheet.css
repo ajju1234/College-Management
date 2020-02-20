@@ -1,0 +1,64 @@
+html 
+body
+{       
+	
+}
+.a 
+{
+	font-size:20px;
+	padding:10px;
+	color:white;
+	text-decoration:none;
+	background-color:green;
+	border-radius: 10px;
+}
+.a:hover
+{	
+	background-color:#003300;
+}
+header
+{
+	color:white;
+	text-align: center;
+	margin: 100px auto 0px;
+	font-size: 25px;
+	padding: 10px;
+	width:30%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+form
+{
+	color:white;
+	margin:0px auto;
+	font-size: 20px;
+	padding: 10px;
+	width:30%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+label
+{
+
+}
+input[type="text"],input[type="password"],input[type="date"],input[type="tel"],input[type="email"]
+{
+	width: 100%;
+	padding: 10px;
+	border: none;
+	border-bottom: 1px solid white;
+	background: none;
+	color: white;
+}
+button
+{
+	width: 30%;
+	background-color: green;
+	border: none;
+	padding: 10px;
+	color:white;
+	font-size: 18px;
+	border-radius: 10px;
+}
+button:hover
+{
+	background-color: #003300;
+}
